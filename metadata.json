@@ -1,0 +1,6 @@
+{
+  "name": "Neon Serpent",
+  "description": "A dark neon synthwave-themed Snake game with a built-in AI-generated music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
